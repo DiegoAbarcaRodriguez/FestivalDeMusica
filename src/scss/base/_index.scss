@@ -1,0 +1,7 @@
+@forward 'variables';
+@forward 'normalize';
+@forward 'globales';
+
+
+//Referencia a los demàs archivos .scss, para poder ser llamados en el app.scss mediante el nombre de la carpeta que los contiene 
+//en el app.scss sería: @use 'base';
